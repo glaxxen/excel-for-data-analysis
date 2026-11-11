@@ -53,3 +53,7 @@ Session 12’s solution is a macro-enabled workbook. Keep the `.xlsm` extension 
 ## Dashboard project
 
 The dashboard lesson starts with the ideas behind a dashboard and takes you through building one. Use the project to practice explaining what the data shows. When you share your version, include a screenshot and a short description of the question you answered, what you built, and what you found.
+
+![AfriMart KollyBright sales dashboard built in Excel](https://raw.githubusercontent.com/glaxxen/project-Excel-Dashboard/main/AfriMart_KollyBright_Sales_Dashboard_in_Excel_Screenshot.jpg)
+
+[View the full AfriMart KollyBright dashboard project](https://github.com/glaxxen/project-Excel-Dashboard)
